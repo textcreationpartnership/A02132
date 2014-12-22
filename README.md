@@ -35,28 +35,32 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A maidens dreame vpon the death of the Right Honorable Sir Christopher Hatton knight, late Lord Chan
+
+1. TO THE RIGHT VVORSHIPFVL, BOVNtifull and vertuous Ladie, the Ladie Elizabeth Hatton, Wife to the right Worshipfull Sir William Hatton Knight, increase of all honorable vertues.
+
 #####Body#####
+
+1. A Maidens Dreame.
 ME thought in slumber as I lay and dreamt,I sawe a silent spring raild in with Ieat,From sunnie shad
-1. The Complaint of Iustice.
+    _ The Complaint of Iustice.
 
-1. The complaint of Prudence.
+    _ The complaint of Prudence.
 
-1. The complaint of Fortitude.
+    _ The complaint of Fortitude.
 
-1. The complaint of Temperance.
+    _ The complaint of Temperance.
 
-1. The complaint of Bountie.
+    _ The complaint of Bountie.
 
-1. The complaint of Hospitalitie.
+    _ The complaint of Hospitalitie.
 
-1. The complaint of Religion.
+    _ The complaint of Religion.
 
-1. Primate.
+    _ Primate.
 
-1. Milites.
+    _ Milites.
 
-1. Plebs.
+    _ Plebs.
 
 **Types of content**
 
